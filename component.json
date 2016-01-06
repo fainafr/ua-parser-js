@@ -5,5 +5,5 @@
     "main": "src/ua-parser.js",
     "tag": "master",
     "reposType": "npm",
-    "version": "0.7.9"
+    "version": "0.7.10"
 }
